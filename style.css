@@ -1,6 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 p{
   text-align:center;
-  color:red;
+  font-size:x-large;
+  color:rgb(225, 225, 121);
   text-decoration:underline;
+  font-family: 'Poppins', sans-serif;
+  font-style:bold;
+  background-color: rgb(2, 23, 68);
+  font-weight: 1000;
  
 }
+h1{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: right;
+  text-shadow:0cm;
+  text-indent: 0%;
+  color:blueviolet}
+.con
+{
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ text-align: right;
+ text-shadow:0cm;
+ text-indent: 0%;
+ color:blueviolet}
+
+
+ 
